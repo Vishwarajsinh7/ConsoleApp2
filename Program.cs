@@ -17,7 +17,7 @@ namespace Consoleapp3
             int sum;
             sum = a + b;
             Console.WriteLine(sum);
-
+            
 
         }
     }
